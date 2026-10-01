@@ -63,7 +63,7 @@ Return rates and reasons, delivery performance by shipping method, and sales-cha
 
 ## 🚀 How to Run the Analysis
 ```bash
-git clone [salesproject](https://github.com/jobinjosej253/sales-performance-dashboard.git)
+git clone https://github.com/jobinjosej253/sales-performance-dashboard.git
 cd sales-performance-analysis
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 jupyter notebook notebooks/sales_dataanalysis.ipynb
