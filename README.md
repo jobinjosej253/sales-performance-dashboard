@@ -33,10 +33,10 @@ covering sales, customer behavior, and operations.
 | Top market | **United States** holds the majority of sales; Australia the least |
 | Most used payment method | **Credit Card**, followed by Debit Card and PayPal |
 | Peak transaction time | **Afternoon**, followed by Evening; Night is lowest |
-| Return rate | **10.4%** of all sales are returned — a meaningful figure worth investigating |
+| Return rate | **10.4%** of all sales are returned a meaningful figure worth investigating |
 | Top return reason | **Late Delivery**, though all reasons are fairly close in volume |
-| Shipping vs. returns | Return rate tracks transaction volume per shipping method proportionally — shipping method itself isn't driving returns |
-| Best-selling category | **Electronics** — highest in both revenue and transaction count |
+| Shipping vs. returns | Return rate tracks transaction volume per shipping method proportionally shipping method itself isn't driving returns |
+| Best-selling category | **Electronics** highest in both revenue and transaction count |
 | Most profitable category | **Electronics**, followed by Furniture; Office Supplies and Appliances lag behind |
 | Customer demographics | Transactions skew slightly female over male; Non-binary and Unknown are a small share |
 | Dominant sales channel | **Online**, followed by Retail Store |
@@ -63,7 +63,7 @@ Return rates and reasons, delivery performance by shipping method, and sales-cha
 
 ## 🚀 How to Run the Analysis
 ```bash
-git clone https://github.com/jobinjosej253/sales-performance-dashboard.git
+git clone [salesproject](https://github.com/jobinjosej253/sales-performance-dashboard.git)
 cd sales-performance-analysis
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 jupyter notebook notebooks/sales_dataanalysis.ipynb
