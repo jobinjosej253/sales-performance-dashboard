@@ -41,7 +41,7 @@ covering sales, customer behavior, and operations.
 | Customer demographics | Transactions skew slightly female over male; Non-binary and Unknown are a small share |
 | Dominant sales channel | **Online**, followed by Retail Store |
 | Yearly trend | Sales dipped in 2024 and rebounded strongly in 2025 |
-| Profit vs. discount | Trend lines move together over time — discounting appears linked to higher profit, not just higher volume |
+| Profit vs. discount | Trend lines move together over time, discounting have a weak negative correlation to profit|
 
 ## 📈 Power BI Dashboard (3 pages)
 
