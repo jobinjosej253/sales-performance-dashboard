@@ -1,6 +1,6 @@
 # Sales Performance Analysis & Dashboard Suite 📈
 
-End-to-end analysis of 18,000+ sales transactions (2022–2025) across 6 countries —
+End-to-end analysis of 18,000+ sales transactions (2022–2025) across 6 countries,
 from advanced data cleaning in Python to a 3-page interactive Power BI dashboard
 covering sales, customer behavior, and operations.
 
@@ -10,8 +10,8 @@ covering sales, customer behavior, and operations.
 - Build a multi-page dashboard for different stakeholders (sales, customer insights, operations)
 
 ## 🛠️ Tools & Libraries
-- **Python** — Pandas, NumPy, Matplotlib, Seaborn (cleaning, feature engineering, EDA)
-- **Power BI** — 3-page interactive dashboard
+- **Python**  Pandas, NumPy, Matplotlib, Seaborn (cleaning, feature engineering, EDA)
+- **Power BI**  3-page interactive dashboard
 
 ## 🧹 Data Cleaning & Feature Engineering (Python)
 - Handled missing values using **context-aware imputation** rather than global fills:
@@ -63,7 +63,7 @@ Return rates and reasons, delivery performance by shipping method, and sales-cha
 
 ## 🚀 How to Run the Analysis
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jobinjosej253/sales-performance-dashboard.git
 cd sales-performance-analysis
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 jupyter notebook notebooks/sales_dataanalysis.ipynb
